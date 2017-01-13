@@ -56,7 +56,7 @@ if($result->num_rows > 0) {
 
 <html>
 <head>
-<title>@Dean</title>
+<title>Anyone @ Dean</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {
