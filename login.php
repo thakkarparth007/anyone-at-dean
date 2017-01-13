@@ -114,6 +114,6 @@ input[type="submit"] {
     </span><br>
 <?php } ?>
 
-<div id="footer">Jumbo: "My with love by ♥  Delta"</div>
+<div id="footer">Made with ♥ by Delta Force"</div>
 </body>
 </html>
